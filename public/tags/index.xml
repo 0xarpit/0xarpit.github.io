@@ -7,31 +7,94 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Thu, 22 Jul 2021 19:00:42 +0530</lastBuildDate><atom:link href="https://0xarpit.in/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Apr 2023 17:37:09 +0530</lastBuildDate><atom:link href="https://0xarpit.in/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>web-security</title>
-      <link>https://0xarpit.in/tags/web-security/</link>
-      <pubDate>Thu, 22 Jul 2021 19:00:42 +0530</pubDate>
+      <title>Compliance requirements</title>
+      <link>https://0xarpit.in/tags/compliance-requirements/</link>
+      <pubDate>Fri, 21 Apr 2023 17:37:09 +0530</pubDate>
       
-      <guid>https://0xarpit.in/tags/web-security/</guid>
+      <guid>https://0xarpit.in/tags/compliance-requirements/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Bash</title>
-      <link>https://0xarpit.in/tags/bash/</link>
-      <pubDate>Thu, 11 Apr 2019 21:27:13 +0530</pubDate>
+      <title>Continuous monitoring</title>
+      <link>https://0xarpit.in/tags/continuous-monitoring/</link>
+      <pubDate>Fri, 21 Apr 2023 17:37:09 +0530</pubDate>
       
-      <guid>https://0xarpit.in/tags/bash/</guid>
+      <guid>https://0xarpit.in/tags/continuous-monitoring/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>ReGex</title>
-      <link>https://0xarpit.in/tags/regex/</link>
-      <pubDate>Thu, 11 Apr 2019 21:27:13 +0530</pubDate>
+      <title>DAST</title>
+      <link>https://0xarpit.in/tags/dast/</link>
+      <pubDate>Fri, 21 Apr 2023 17:37:09 +0530</pubDate>
       
-      <guid>https://0xarpit.in/tags/regex/</guid>
+      <guid>https://0xarpit.in/tags/dast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IAST</title>
+      <link>https://0xarpit.in/tags/iast/</link>
+      <pubDate>Fri, 21 Apr 2023 17:37:09 +0530</pubDate>
+      
+      <guid>https://0xarpit.in/tags/iast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SAST</title>
+      <link>https://0xarpit.in/tags/sast/</link>
+      <pubDate>Fri, 21 Apr 2023 17:37:09 +0530</pubDate>
+      
+      <guid>https://0xarpit.in/tags/sast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SCA</title>
+      <link>https://0xarpit.in/tags/sca/</link>
+      <pubDate>Fri, 21 Apr 2023 17:37:09 +0530</pubDate>
+      
+      <guid>https://0xarpit.in/tags/sca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Secret Scanning</title>
+      <link>https://0xarpit.in/tags/secret-scanning/</link>
+      <pubDate>Fri, 21 Apr 2023 17:37:09 +0530</pubDate>
+      
+      <guid>https://0xarpit.in/tags/secret-scanning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vulnerability Assessment</title>
+      <link>https://0xarpit.in/tags/vulnerability-assessment/</link>
+      <pubDate>Fri, 21 Apr 2023 17:37:09 +0530</pubDate>
+      
+      <guid>https://0xarpit.in/tags/vulnerability-assessment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vulnerability Management</title>
+      <link>https://0xarpit.in/tags/vulnerability-management/</link>
+      <pubDate>Fri, 21 Apr 2023 17:37:09 +0530</pubDate>
+      
+      <guid>https://0xarpit.in/tags/vulnerability-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>career</title>
+      <link>https://0xarpit.in/tags/career/</link>
+      <pubDate>Tue, 14 Mar 2023 17:37:09 +0530</pubDate>
+      
+      <guid>https://0xarpit.in/tags/career/</guid>
       <description></description>
     </item>
     

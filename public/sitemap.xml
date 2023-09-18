@@ -3,33 +3,89 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://0xarpit.in/</loc>
-    <lastmod>2021-07-22T19:00:42+05:30</lastmod>
+    <lastmod>2023-04-21T17:37:09+05:30</lastmod>
   </url><url>
-    <loc>https://0xarpit.in/posts/2021/07/intro-to-content-security-policy/</loc>
-    <lastmod>2021-07-22T19:00:42+05:30</lastmod>
+    <loc>https://0xarpit.in/tags/compliance-requirements/</loc>
+    <lastmod>2023-04-21T17:37:09+05:30</lastmod>
+  </url><url>
+    <loc>https://0xarpit.in/tags/continuous-monitoring/</loc>
+    <lastmod>2023-04-21T17:37:09+05:30</lastmod>
+  </url><url>
+    <loc>https://0xarpit.in/tags/dast/</loc>
+    <lastmod>2023-04-21T17:37:09+05:30</lastmod>
+  </url><url>
+    <loc>https://0xarpit.in/tags/iast/</loc>
+    <lastmod>2023-04-21T17:37:09+05:30</lastmod>
   </url><url>
     <loc>https://0xarpit.in/posts/</loc>
-    <lastmod>2021-07-22T19:00:42+05:30</lastmod>
+    <lastmod>2023-04-21T17:37:09+05:30</lastmod>
+  </url><url>
+    <loc>https://0xarpit.in/tags/sast/</loc>
+    <lastmod>2023-04-21T17:37:09+05:30</lastmod>
+  </url><url>
+    <loc>https://0xarpit.in/tags/sca/</loc>
+    <lastmod>2023-04-21T17:37:09+05:30</lastmod>
+  </url><url>
+    <loc>https://0xarpit.in/tags/secret-scanning/</loc>
+    <lastmod>2023-04-21T17:37:09+05:30</lastmod>
   </url><url>
     <loc>https://0xarpit.in/tags/</loc>
-    <lastmod>2021-07-22T19:00:42+05:30</lastmod>
+    <lastmod>2023-04-21T17:37:09+05:30</lastmod>
   </url><url>
-    <loc>https://0xarpit.in/tags/web-security/</loc>
-    <lastmod>2021-07-22T19:00:42+05:30</lastmod>
+    <loc>https://0xarpit.in/tags/vulnerability-assessment/</loc>
+    <lastmod>2023-04-21T17:37:09+05:30</lastmod>
   </url><url>
-    <loc>https://0xarpit.in/posts/2019/04/automate-the-shit/</loc>
-    <lastmod>2019-04-11T21:27:13+05:30</lastmod>
+    <loc>https://0xarpit.in/tags/vulnerability-management/</loc>
+    <lastmod>2023-04-21T17:37:09+05:30</lastmod>
   </url><url>
-    <loc>https://0xarpit.in/tags/bash/</loc>
-    <lastmod>2019-04-11T21:27:13+05:30</lastmod>
+    <loc>https://0xarpit.in/posts/2023/04/vulnerability-management-process/</loc>
+    <lastmod>2023-04-21T17:37:09+05:30</lastmod>
   </url><url>
-    <loc>https://0xarpit.in/tags/regex/</loc>
-    <lastmod>2019-04-11T21:27:13+05:30</lastmod>
+    <loc>https://0xarpit.in/tags/career/</loc>
+    <lastmod>2023-03-14T17:37:09+05:30</lastmod>
+  </url><url>
+    <loc>https://0xarpit.in/posts/2023/03/career-into-cybersecurity/</loc>
+    <lastmod>2023-03-14T17:37:09+05:30</lastmod>
+  </url><url>
+    <loc>https://0xarpit.in/tags/career-portals/</loc>
+    <lastmod>2023-03-14T17:37:09+05:30</lastmod>
+  </url><url>
+    <loc>https://0xarpit.in/tags/certifications/</loc>
+    <lastmod>2023-03-14T17:37:09+05:30</lastmod>
+  </url><url>
+    <loc>https://0xarpit.in/tags/cybersecurity/</loc>
+    <lastmod>2023-03-14T17:37:09+05:30</lastmod>
+  </url><url>
+    <loc>https://0xarpit.in/tags/infosec/</loc>
+    <lastmod>2023-03-14T17:37:09+05:30</lastmod>
+  </url><url>
+    <loc>https://0xarpit.in/tags/agile/</loc>
+    <lastmod>2022-12-31T17:37:09+05:30</lastmod>
+  </url><url>
+    <loc>https://0xarpit.in/tags/automation/</loc>
+    <lastmod>2022-12-31T17:37:09+05:30</lastmod>
+  </url><url>
+    <loc>https://0xarpit.in/tags/devsecops/</loc>
+    <lastmod>2022-12-31T17:37:09+05:30</lastmod>
+  </url><url>
+    <loc>https://0xarpit.in/posts/2022/12/devsecops-from-zero-to-hero../</loc>
+    <lastmod>2022-12-31T17:37:09+05:30</lastmod>
+  </url><url>
+    <loc>https://0xarpit.in/tags/jenkis/</loc>
+    <lastmod>2022-12-31T17:37:09+05:30</lastmod>
+  </url><url>
+    <loc>https://0xarpit.in/tags/jira/</loc>
+    <lastmod>2022-12-31T17:37:09+05:30</lastmod>
+  </url><url>
+    <loc>https://0xarpit.in/tags/ssdlc/</loc>
+    <lastmod>2022-12-31T17:37:09+05:30</lastmod>
   </url><url>
     <loc>https://0xarpit.in/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://0xarpit.in/categories/</loc>
+  </url><url>
+    <loc>https://0xarpit.in/tags/ci/cd/</loc>
   </url><url>
     <loc>https://0xarpit.in/series/</loc>
   </url>

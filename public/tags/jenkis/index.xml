@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jenkis on Arpit Mittal</title>
+    <link>https://0xarpit.in/tags/jenkis/</link>
+    <description>Recent content in Jenkis on Arpit Mittal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sat, 31 Dec 2022 17:37:09 +0530</lastBuildDate><atom:link href="https://0xarpit.in/tags/jenkis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DevSecOps from Zero to Hero..!!</title>
+      <link>https://0xarpit.in/posts/2022/12/devsecops-from-zero-to-hero../</link>
+      <pubDate>Sat, 31 Dec 2022 17:37:09 +0530</pubDate>
+      
+      <guid>https://0xarpit.in/posts/2022/12/devsecops-from-zero-to-hero../</guid>
+      <description>Day by day we are learning different security approaches to minimize an improve the security gaps and for that we have to apply best possible security at all the levels. Now if we will talk about specifically for Application Security we can go with most preferred approaches which is SAST/DAST but do you think it is sufficient to secure your application as well as minimize the cost? The answer will be a big NO because while managing the whole application security domain we need to be ensured from the scratch and for this we have to start applying security best practices at the development level hence SSDLC (Secure Software Development Life Cycle) comes into the picture when we can train our developers to do the secure coding thus we can reduce the vulnerabilities count at the SAST and DAST level and then go for secure code review and dynamic security assessment process</description>
+    </item>
+    
+  </channel>
+</rss>

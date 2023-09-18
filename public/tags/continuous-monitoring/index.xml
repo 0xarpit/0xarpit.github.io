@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Continuous monitoring on Arpit Mittal</title>
+    <link>https://0xarpit.in/tags/continuous-monitoring/</link>
+    <description>Recent content in Continuous monitoring on Arpit Mittal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Fri, 21 Apr 2023 17:37:09 +0530</lastBuildDate><atom:link href="https://0xarpit.in/tags/continuous-monitoring/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vulnerability Management Process</title>
+      <link>https://0xarpit.in/posts/2023/04/vulnerability-management-process/</link>
+      <pubDate>Fri, 21 Apr 2023 17:37:09 +0530</pubDate>
+      
+      <guid>https://0xarpit.in/posts/2023/04/vulnerability-management-process/</guid>
+      <description>What is Vulnerability Management? Vulnerability management is a process that involves identifying, assessing, and mitigating vulnerabilities in an organization&amp;rsquo;s systems and applications. The goal of vulnerability management is to proactively identify vulnerabilities before they can be exploited by attackers and to implement controls and mitigation strategies to reduce the risk of a successful attack.
+The vulnerability management process typically involves the following steps:
+Vulnerability Scanning Vulnerability Assessment Risk Prioritization Remediation Verification Continuous monitoring What is the need to establish Vulnerability Management process?</description>
+    </item>
+    
+  </channel>
+</rss>
