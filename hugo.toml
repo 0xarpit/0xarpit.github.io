@@ -1,5 +1,5 @@
-baseURL = "https://nihalchoudhary.in"
-title   = "Nihal"
+baseURL = "https://0xarpit.in"
+title   = "Arpit Mittal"
 languageCode = "en-us"
 theme = "hello-friend-ng"
 
@@ -10,7 +10,7 @@ paginate  = 10
 rssLimit  = 10  # Maximum number of items in the RSS feed.
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
 
-googleAnalytics = "G-CXWDRDDR22"
+#googleAnalytics = ""
 # disqusShortname = ""
 
 archetypeDir = "archetypes"
